@@ -1,6 +1,6 @@
 # Legal Document Annotation Guidelines
 
-**Version:** 1.0
+**Version:** 1.1
 **Dataset:** Synthetic legal operations documents
 **Status:** Initial annotation protocol
 
@@ -15,8 +15,8 @@ Establish consistent labeling rules for classifying incoming legal documents acc
 | NDA | A standalone agreement primarily establishing confidentiality or nondisclosure obligations. |
 | EMPLOYMENT_AGREEMENT | An agreement primarily establishing employment terms, compensation, responsibilities, or termination provisions. |
 | COURT_DOCUMENT | A filing, order, judgment, or other record associated with formal court proceedings. |
-| NEEDS_REVIEW | A document that is incomplete, ambiguous, outside the supported categories, or insufficiently clear to classify. 
-| GOVERNMENT_AGENCY_OPINION | A formal written opinion or interpretation issued by a government administrative agency in response to a legal or regulatory question.
+| NEEDS_REVIEW | A document that is incomplete, ambiguous, outside the supported categories, or insufficiently clear to classify. |
+| GOVERNMENT_AGENCY_OPINION | A formal written opinion or interpretation issued by a government administrative agency in response to a legal or regulatory question.|
 
 ## Annotation Rules
 
