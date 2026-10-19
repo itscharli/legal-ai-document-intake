@@ -1,1 +1,3 @@
-
+document_id,taxonomy_version,assigned_label,confidence,evidence,rationale,review_status
+DOC-REAL-001,1.0,NEEDS_REVIEW,Low,"Issued by the California Division of Labor Standards Enforcement in response to a request concerning Rombauer Vineyards' bonus program.","The document is a government agency opinion letter and falls outside the original four supported categories.",Accepted
+DOC-REAL-001,1.1,GOVERNMENT_AGENCY_OPINION,High,"The California DLSE addresses questions about quarterly bonus payments and employee termination.","This is an administrative agency opinion letter addressing employment-related wage questions.",Reviewed Revision
